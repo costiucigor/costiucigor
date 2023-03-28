@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td valign="top"><img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=costiucigor)](https://github.com/anuraghazra/github-readme-stats"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=costiucigor)](https://github.com/anuraghazra/github-readme-stats"/></td>
+    <td valign="top">[![costiucigor's GitHub stats](https://github-readme-stats.vercel.app/api?username=costiucigor)](https://github.com/anuraghazra/github-readme-stats)</td>
+    <td valign="top">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costiucigor)](https://github.com/anuraghazra/github-readme-stats)</td>
   </tr>
 </table>
 
