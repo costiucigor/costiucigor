@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=costiucigor)](https://git.io/streak-stats)                           
 
-| [![costiucigor's GitHub stats](https://github-readme-stats.vercel.app/api?username=costiucigor)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costiucigor)](https://github.com/anuraghazra/github-readme-stats) |
+| [![costiucigor's GitHub stats](https://github-readme-stats.vercel.app/api?username=costiucigor)](https://github.com/anuraghazra/github-readme-stats) | 
 | --- | --- |
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=costiucigor)](https://github.com/ryo-ma/github-profile-trophy)
